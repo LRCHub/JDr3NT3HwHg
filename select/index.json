@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Live Again",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2025-12-17T09:55:19.238986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Live Again",
+      "artist": "Ying Yang Twins feat. Adam Levine",
+      "has_synced": false,
+      "path": "select/01_Live_Again_Ying_Yang_Twins_feat._Adam_Levine.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Live Again",
+      "artist": "Irma Thomas",
+      "has_synced": false,
+      "path": "select/02_Live_Again_Irma_Thomas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Live Again",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/03_We_Live_Again_Beck.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Must Learn to Live Again",
+      "artist": "Halls",
+      "has_synced": true,
+      "path": "select/04_You_Must_Learn_to_Live_Again_Halls.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Will Live Again",
+      "artist": "Arch Enemy",
+      "has_synced": true,
+      "path": "select/05_I_Will_Live_Again_Arch_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Live Again",
+      "artist": "Nina Hagen",
+      "has_synced": false,
+      "path": "select/06_I'll_Live_Again_Nina_Hagen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Live Again (The Fall of Man)",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/07_Live_Again_(The_Fall_of_Man)_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Live Again",
+      "artist": "Sevendust",
+      "has_synced": true,
+      "path": "select/08_Live_Again_Sevendust.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Live Again",
+      "artist": "Lighthouse Family",
+      "has_synced": true,
+      "path": "select/09_Live_Again_Lighthouse_Family.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let Me Live Again",
+      "artist": "Our Lady Peace",
+      "has_synced": true,
+      "path": "select/10_Let_Me_Live_Again_Our_Lady_Peace.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Live Again",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/11_Live_Again_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When We Live Again",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/12_When_We_Live_Again_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Live Again",
+      "artist": "Stryper",
+      "has_synced": false,
+      "path": "select/13_Live_Again_Stryper.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Sometimes You've Got To Die To) Live Again",
+      "artist": "Garth Brooks",
+      "has_synced": true,
+      "path": "select/14_(Sometimes_You've_Got_To_Die_To)_Live_Again_Garth_Brooks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Learning to Live Again",
+      "artist": "Garth Brooks",
+      "has_synced": false,
+      "path": "select/15_Learning_to_Live_Again_Garth_Brooks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Live Again",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_Live_Again_Mori_Calliope.txt"
+    }
+  ]
+}
